@@ -44,7 +44,7 @@ $ docker pull ubuntu:latest
 
 ### Enviar um container para o Registry
 
-Antes de enviar um container para o Registry precisamos de um conteiner
+Antes de enviar um container para o Registry precisamos gerar a imagem dele
 
 ```DOCKER
 FROM ubuntu:latest
